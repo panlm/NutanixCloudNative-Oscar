@@ -43,7 +43,7 @@ nosetests.xml
 /.tox/*
 
 # Sandbox content
-settings_local.py
+#settings_local.py
 /sandbox/*.sqlite
 /sandbox/assets/
 /sandbox/public/
