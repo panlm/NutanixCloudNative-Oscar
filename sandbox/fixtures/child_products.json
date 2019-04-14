@@ -12,6 +12,19 @@
 },
 {
     "pk": 1, 
+    "model": "catalogue.category", 
+    "fields": {
+        "description": "", 
+        "numchild": 0, 
+        "slug": "all", 
+        "depth": 1, 
+        "path": "0001",
+        "image": "", 
+        "name": "All"
+    }
+},
+{
+    "pk": 1, 
     "model": "catalogue.productcategory", 
     "fields": {
         "category": 1, 
